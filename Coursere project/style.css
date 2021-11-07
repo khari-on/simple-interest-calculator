@@ -1,0 +1,99 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+body{
+    background-color: black;
+}
+.nav{
+    color: black;
+    background-color: whitesmoke;
+    border: 0,0,10px,0;
+    height: 50px;
+    text-align: center;
+}
+h3{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    transition: 0.5s ease;
+}
+h3:hover{
+    color:rgb(228, 171, 15);
+}
+h2{
+    color: black;
+
+}
+
+.maindiv
+{
+    background-color: white;
+    width:500px;
+    border-radius: 25px;
+    margin-top: 80px;
+    margin-left: 420px;
+    height: auto;
+    line-height: 40px;
+    text-align:center;
+    
+   
+}
+
+label{
+    padding-right: 25px;
+    font-family: Arial;
+    
+}
+h1{
+    color: grey;
+    padding: 20px;
+}
+#btn{
+    height: 38px;
+    width: 420px;
+    background-color: blue;
+    font-family: Verdana;
+    color: wheat;
+    
+}
+#btn:hover
+{
+ 
+    background-color: orange;
+    
+}
+#principal
+{
+         width: 180px;
+         height: 26px;
+         border-radius: 5px;
+         border-width: 1px;
+         margin-left: 10px;
+}
+#rate
+{
+    width: 140px;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#years
+{
+    margin-left: 20px;
+    margin-right: 180px;
+}
+
+.highlight{
+     background-color: yellow;
+ }
+ 
+ #result{
+     text-align: justify;
+     color: teal;
+ }
